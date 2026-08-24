@@ -1,16 +1,72 @@
-# saifia_teachings
+# Saifia Teachings 📖
 
-A new Flutter project.
+A Flutter-based Islamic teachings application designed to provide users with a smooth digital reading experience for religious content.
 
-## Getting Started
+The app allows users to read PDF-based teachings, search content, bookmark pages, navigate through chapters, and customize their reading experience with theme support.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 📖 PDF document reader
+- 🔍 Advanced text search
+- 🔖 Bookmark pages
+- 📑 Table of contents navigation
+- 📄 Page navigation and zoom support
+- 🌙 Dark and light theme support
+- ⚡ Cached search results for better performance
+- 🎨 Clean and simple reading interface
+- 🚀 Smooth Flutter mobile experience
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠️ Tech Stack
+
+- Flutter
+- Dart
+- Syncfusion PDF Viewer
+- Shared Preferences
+- Local Storage
+- Material Design
+
+---
+
+## 📱 Main Modules
+
+### PDF Reader
+- Smooth PDF viewing experience
+- Page navigation
+- Zoom controls
+
+### Search System
+- Search inside PDF content
+- Highlight matching results
+- Fast cached searching
+
+### User Experience
+- Bookmark management
+- Dark mode support
+- Custom reading interface
+
+---
+
+## 🚀 Highlights
+
+- Built with Flutter for cross-platform performance
+- Optimized PDF reading experience
+- Organized and maintainable Flutter architecture
+- User-friendly Islamic learning application
+
+---
+
+## 👨‍💻 Developer
+
+M Ali Hassan
+
+Flutter Developer
+
+Portfolio:
+https://m-ali-hassan-portfolio.netlify.app
+
+GitHub:
+https://github.com/alihassandev786
